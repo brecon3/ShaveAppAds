@@ -1,0 +1,24 @@
+
+[   {
+    "date":"08-12-2021",
+    "name":"Aloha SmackDown Shaving Soap | Classic Hawaiian Punch",
+    "price": "$14.95",
+    "url": "https://phoenixartisanaccoutrements.com/collections/phoenix-crown-king-shaving-soaps/products/aloha-smackdown-shaving-soap-classic-hawaiian-punch",
+    "urlToImage": "https://cdn.shopify.com/s/files/1/0281/5884/products/shaving-soap-aloha-smackdown-shaving-soap-classic-hawaiian-punch-summer-seasonal-1_640x640.jpg?v=1586540101"
+    },
+    
+    {
+        "date":"08-13-2021",
+        "name":"Strange Island Shaving Soap & Aftershave Cologne Bundle",
+        "price": "$35.90",
+        "url": "https://phoenixartisanaccoutrements.com/products/strange-island-shaving-soap-aftershave-cologne-bundle",
+        "urlToImage": "https://cdn.shopify.com/s/files/1/0281/5884/products/bundles-strange-island-shaving-soap-aftershave-cologne-bundle-deal-a-phoenix-classic-spring-seasonal-1_1390x1388.jpg?v=1586540157"
+    },
+    {
+        "date":"08-14-2021",
+        "name":"AGHARTA Artisan Shave Soap & Aftershave Bundle ",
+        "price": "$35.90",
+        "url": "https://phoenixartisanaccoutrements.com/products/agharta-artisan-shave-soap-aftershave-bundle-deal",
+        "urlToImage": "https://cdn.shopify.com/s/files/1/0281/5884/products/bundles-agharta-artisan-shave-soap-aftershave-bundle-deal-crown-king-formula-1_800x800.jpg?v=1569302806"
+    }
+]
