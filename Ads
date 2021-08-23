@@ -23,9 +23,9 @@
     },
     {
         "date":"08-23-2021",
-        "name":"Kent Luxury Shaving Cream | P.A.A. Bakelite Open Comb Slant Razor",
-        "price": "PaulHFilms",
-        "url": "https://www.youtube.com/watch?v=vLbWz_wItLk",
-        "urlToImage": "https://i.ytimg.com/vi/vLbWz_wItLk/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDJ4bbjxzhScGtj24_hmHcka2-orA"
+        "name":"Captains Choice Leather Travel Accessories, Merkur 34C & Nor’easter Soap and Balm",
+        "price": "Kensurfs",
+        "url": "https://www.youtube.com/watch?v=G4wKVQeJykQ",
+        "urlToImage": "https://i.ytimg.com/vi/G4wKVQeJykQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD55wlUoFCEJy3yP_wemOfUVZtq4Q"
     }
 ]
