@@ -1,31 +1,31 @@
 
 [   {
     "date":"08-24-2021",
-    "name":"Calle Ocho - LatherBros. Soap Company",
-    "price": "$16.99",
-    "url": "https://www.latherbros.com/store/p4/Calle_Ocho.html",
-    "urlToImage": "https://www.latherbros.com/uploads/2/1/3/5/21351216/s441492182317100029_p4_i11_w1200.jpeg?width=160"
+    "name":"Celtic Knot Luxury Cream Soap - Catie's Bubbles",
+    "price": "$15.00",
+    "url": "http://catiesbubbles.com/index.php?main_page=product_info&cPath=85&products_id=561",
+    "urlToImage": "http://catiesbubbles.com/images/Celtic%20Knot%20SoapTop.jpg"
     },
     
     {
-        "date":"08-21-2021",
-        "name":"Mountain Man - Shave Soap",
-        "price": "$13.75",
-        "url": "https://www.stirlingsoap.com/collections/shave-soap/products/mountain-man-shave-soap",
-        "urlToImage": "https://cdn.shopify.com/s/files/1/2198/0751/products/mountain-man-shave-soap-stirling_740x.jpg?v=1515709272"
+        "date":"08-25-2021",
+        "name":"NOR'EASTER Shave Soap - Captain's Choice",
+        "price": "$15.95",
+        "url": "https://www.captainschoicestore.com/all/shaving-cream-lime-w8mrz-f645t",
+        "urlToImage": "https://images.squarespace-cdn.com/content/v1/52b67a89e4b0a195126d11a3/1570742863652-H5HRT0UFR25VPRSQD73Q/12218_079_Tif_NEW.jpg?format=1000w"
     },
     {
-        "date":"08-22-2021",
-        "name":"Captain Scurvy Shaving Soap",
-        "price": "$16.00",
-        "url": "https://blackshipgroomingco.com/collections/shaving-softwear/products/captain-scurvy-shaving-soap?variant=34688819585",
-        "urlToImage": "https://cdn.shopify.com/s/files/1/2027/5407/products/captain-scurvy-shaving-soap-260839_900x675.jpg?v=1614636491"
+        "date":"08-26-2021",
+        "name":"Cedar & Spice Shaving Soap - Chiseled Face",
+        "price": "$14.99",
+        "url": "https://chiseledface.com/collections/shaving-soap-tallow/products/tallow-shave-soap-cedar-spice-all-natural",
+        "urlToImage": "https://cdn.shopify.com/s/files/1/2716/2138/products/cedar-and-spice-final-2_1024x1024.jpg?v=1515457919"
     },
     {
-        "date":"08-23-2021",
-        "name":"Captains Choice Leather Travel Accessories, Merkur 34C & Nor’easter Soap and Balm",
-        "price": "Kensurfs",
-        "url": "https://www.youtube.com/watch?v=G4wKVQeJykQ",
-        "urlToImage": "https://i.ytimg.com/vi/G4wKVQeJykQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD55wlUoFCEJy3yP_wemOfUVZtq4Q"
+        "date":"08-27-2021",
+        "name":"Integrity Shaving Soap - Soap Commander",
+        "price": "$17.50",
+        "url": "https://soapcommander.com/products/integrity-shaving-soap?variant=1028478811",
+        "urlToImage": "https://cdn.shopify.com/s/files/1/0680/1473/products/Integrity_Shave_Soap_medium.png?v=1568680710"
     }
 ]
