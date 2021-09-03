@@ -1,30 +1,201 @@
-[   {
-    "date":"09-04-2021",
-    "name":"Lakeside Cutlery | A&E Cherry Pie | Asian Pear | Synth | Straights",
-    "price": "IAMCDB",
-    "url": "https://www.youtube.com/watch?v=yt47CAOz1ro",
-    "urlToImage": "https://yt3.ggpht.com/uh-zBNeS4SFmSFAXLECD2sodPBiQrC4isUIfzanLqinqoGGSBQQp6Jc76ZInRd8UN5euKiBe=s176-c-k-c0x00ffffff-no-rj"
+[
+    {
+    "date":"09-03-2021",
+    "name":"Atomic Pumpkin Bay Rum Artisan Shave Soap",
+    "price": "$14.95",
+    "url": "https://phoenixartisanaccoutrements.com/products/atomic-pumpkin-bay-rum-artisan-shave-soap-contains-organic-pumpkin-oil-zero-clove",
+    "urlToImage": "https://cdn.shopify.com/s/files/1/0281/5884/products/AtomicPumpkinOriginalshavesoapformulaphoenixshaving_700x700.jpg?v=1630115430"
     },
     
     {
-        "date":"09-03-2021",
-        "name":"Atomic Pumpkin Bay Rum Artisan Shave Soap",
-        "price": "$14.95",
-        "url": "https://phoenixartisanaccoutrements.com/products/atomic-pumpkin-bay-rum-artisan-shave-soap-contains-organic-pumpkin-oil-zero-clove",
-        "urlToImage": "https://cdn.shopify.com/s/files/1/0281/5884/products/AtomicPumpkinOriginalshavesoapformulaphoenixshaving_700x700.jpg?v=1630115430"
+        "date":"09-04-2021",
+        "name":"Captains Reserve Beard Oil - Black Ship Grooming",
+        "price": "$15.00",
+        "url": "https://blackshipgroomingco.com/collections/beard-care/products/captains-reserve-beard-oil?variant=2535089504286",
+        "urlToImage": "https://cdn.shopify.com/s/files/1/2027/5407/products/captains-reserve-beard-oil-826896_1512x1134.jpg?v=1614636475"
     },
+    
     {
-        "date":"09-02-2021",
-        "name":"Merkur 43c | The Club 'Signature' Shaving Soap by A&E",
+        "date":"09-08-2021",
+        "name":"The Black Rose Shaving Soap - Black Ship Grooming",
+        "price": "$16.00",
+        "url": "https://blackshipgroomingco.com/collections/shaving-softwear/products/the-black-rose-shaving-soap?variant=34688746817",
+        "urlToImage": "https://cdn.shopify.com/s/files/1/2027/5407/products/the-black-rose-shaving-soap-539894_1512x1134.jpg?v=1614636540"
+    },
+    
+    {
+        "date":"09-09-2021",
+        "name":"Strange Island Shaving Soap & Aftershave Cologne Bundle",
+        "price": "$35.90",
+        "url": "https://phoenixartisanaccoutrements.com/products/strange-island-shaving-soap-aftershave-cologne-bundle",
+        "urlToImage": "https://cdn.shopify.com/s/files/1/0281/5884/products/bundles-strange-island-shaving-soap-aftershave-cologne-bundle-deal-a-phoenix-classic-spring-seasonal-1_1390x1388.jpg?v=1586540157"
+    },
+    
+    {
+        "date":"09-10-2021",
+        "name":"",
         "price": "PaulHFilms",
-        "url": "https://www.youtube.com/watch?v=aGbXrpYgj4A",
+        "url": "",
         "urlToImage": "https://yt3.ggpht.com/ytc/AKedOLQhLW1WEAhViuRKoVoydJNJ1SnzsagOTmfiyJpl=s176-c-k-c0x00ffffff-no-rj"
     },
+    
     {
-        "date":"09-05-2021",
-        "name":"Mountain Man - Shave Soap",
+        "date":"09-11-2021",
+        "name":"Autumn Glory Shave Soap - Stirling Soap",
         "price": "$13.75",
-        "url": "https://www.stirlingsoap.com/collections/shave-soap/products/mountain-man-shave-soap",
-        "urlToImage": "https://cdn.shopify.com/s/files/1/2198/0751/products/mountain-man-shave-soap-stirling_1296x.jpg?v=1515709272"
+        "url": "https://www.stirlingsoap.com/collections/all/products/autumn-glory-shave-soap",
+        "urlToImage": "https://cdn.shopify.com/s/files/1/2198/0751/products/autumn-glory-shave-soap-stirling_1296x.jpg?v=1630589544"
+    },
+    
+    {
+        "date":"09-12-2021",
+        "name":"",
+        "price": "KenSurfs",
+        "url": "",
+        "urlToImage": "https://yt3.ggpht.com/ytc/AKedOLQaUFyM3rsErJ7vqQyWAj_BUhsket4rbzWmWWK4=s176-c-k-c0x00ffffff-no-rj-mo"
+    },
+    
+    {
+        "date":"09-13-2021",
+        "name":"Bay Rum Shave Cream - Captain's Choice",
+        "price": "$15.95",
+        "url": "https://www.captainschoicestore.com/all/shaving-cream-bay-rum",
+        "urlToImage": "https://images.squarespace-cdn.com/content/v1/52b67a89e4b0a195126d11a3/1606338915911-8LJWKVOOFO0CM7N7XWRL/10465_023_Tif-1.jpg?format=1000w"
+    },
+    
+    {
+        "date":"09-14-2021",
+        "name":"Atomic Pumpkin Bay Rum Artisan Shave Soap & Aftershave & Cologne Bundle",
+        "price": "$35.90",
+        "url": "https://phoenixartisanaccoutrements.com/products/atomic-pumpkin-bay-rum-artisan-shave-soap-aftershave-cologne-contains-organic-pumpkin-oil-zero-clove-bundle-deal?rfsn=6038936.73e54f",
+        "urlToImage": "https://cdn.shopify.com/s/files/1/0281/5884/products/AtomicPumpkinBundleDealOriginalFormulaPhoenixShaving_600x600.jpg?v=1630101689"
+    },
+    
+    {
+        "date":"09-15-2021",
+        "name":"Peg Leg Nichols Shaving Soap - Black Ship Grooming",
+        "price": "$16.00",
+        "url": "https://blackshipgroomingco.com/collections/shaving-softwear/products/peg-leg-nichols-shaving-soap?variant=34689180737",
+        "urlToImage": "https://cdn.shopify.com/s/files/1/2027/5407/products/peg-leg-nichols-shaving-soap-132282_1512x1134.jpg?v=1614636531"
+    },
+    
+    {
+        "date":"09-16-2021",
+        "name":"",
+        "price": "PaulHFilms",
+        "url": "",
+        "urlToImage": "https://yt3.ggpht.com/ytc/AKedOLQhLW1WEAhViuRKoVoydJNJ1SnzsagOTmfiyJpl=s176-c-k-c0x00ffffff-no-rj"
+    },
+    
+    {
+        "date":"09-17-2021",
+        "name":"Pumpkin Spice Shave Soap - Stirling Soap",
+        "price": "$13.75",
+        "url": "https://www.stirlingsoap.com/products/pumpkin-spice-shave-soap",
+        "urlToImage": "https://cdn.shopify.com/s/files/1/2198/0751/products/pumpkin-spice-shave-soap-stirling_1296x.jpg?v=1630524750"
+    },
+    
+    {
+        "date":"09-18-2021",
+        "name":"Italia Shave Cream - Captain's Choice",
+        "price": "$15.95",
+        "url": "https://www.captainschoicestore.com/all/shaving-cream-bay-rum-9e27f",
+        "urlToImage": "https://images.squarespace-cdn.com/content/v1/52b67a89e4b0a195126d11a3/1621294686482-JVGGV91TFTVTWNZ4VYML/IMG_4732.jpg?format=1000w"
+    },
+    
+    {
+        "date":"09-19-2021",
+        "name":"",
+        "price": "Kensurfs",
+        "url": "",
+        "urlToImage": "https://yt3.ggpht.com/ytc/AKedOLQaUFyM3rsErJ7vqQyWAj_BUhsket4rbzWmWWK4=s176-c-k-c0x00ffffff-no-rj-mo"
+    },
+    
+    {
+        "date":"09-20-2021",
+        "name":"Harvest Moon Artisan Shaving Soap | Ultra Premium CK-6 Formula",
+        "price": "$24.95",
+        "url": "https://phoenixartisanaccoutrements.com/products/harvest-moon-artisan-shaving-soap-ultra-premium-ck-6-formula-5-oz-special-edition?rfsn=6038936.73e54f",
+        "urlToImage": "https://cdn.shopify.com/s/files/1/0281/5884/products/HarvestMoonFormulaCK6ArtisanShaveSoapPhoenixShaving_600x600.jpg?v=1618705517"
+    },
+    
+    {
+        "date":"09-21-2021",
+        "name":"Jolly Roger Shaving Soap - Black Ship Grooming",
+        "price": "$16.00",
+        "url": "https://blackshipgroomingco.com/collections/shaving-softwear/products/jolly-roger-shaving-soap?variant=34689049089",
+        "urlToImage": "https://cdn.shopify.com/s/files/1/2027/5407/products/jolly-roger-shaving-soap-897674_1512x1134.jpg?v=1614636456"
+    },
+    
+    {
+        "date":"09-22-2021",
+        "name":"Fresco Artisan Shaving Soap & Aftershave Bundle | Ultra Premium CK-6 Formula",
+        "price": "$44.95",
+        "url": "https://phoenixartisanaccoutrements.com/products/fresco-artisan-shaving-soap-aftershave-bundle-deal-ultra-premium-ck-6-formula-5-oz?rfsn=6038936.73e54f",
+        "urlToImage": "https://cdn.shopify.com/s/files/1/0281/5884/products/FrescoAftershaveShaveSoapCK6BundlePhoenixArtisanAccoutrementsOldSpiceFresh_600x600.jpg?v=1624493123"
+    },
+    
+    {
+        "date":"09-23-2021",
+        "name":"",
+        "price": "PaulHFilms",
+        "url": "",
+        "urlToImage": "https://yt3.ggpht.com/ytc/AKedOLQhLW1WEAhViuRKoVoydJNJ1SnzsagOTmfiyJpl=s176-c-k-c0x00ffffff-no-rj"
+    },
+    
+    {
+        "date":"09-24-2021",
+        "name":"Nor'easter Shave Balm - Captain's Choice",
+        "price": "$19.95",
+        "url": "https://www.captainschoicestore.com/all/shave-balm-45th-parallel-wad6t",
+        "urlToImage": "https://images.squarespace-cdn.com/content/v1/52b67a89e4b0a195126d11a3/1570742900671-ZZ2AR93S754TYAY0BM7T/12218_030_Tif_NEW.jpg?format=1000w"
+    },
+    
+    {
+        "date":"09-25-2021",
+        "name":"",
+        "price": "Kensurfs",
+        "url": "",
+        "urlToImage": "https://yt3.ggpht.com/ytc/AKedOLQaUFyM3rsErJ7vqQyWAj_BUhsket4rbzWmWWK4=s176-c-k-c0x00ffffff-no-rj-mo"
+    },
+    
+    {
+        "date":"09-26-2021",
+        "name":"Hot Apple Cider Shave Soap - Stirling Soap",
+        "price": "$13.75",
+        "url": "https://www.stirlingsoap.com/collections/all/products/hot-apple-cider-shave-soap",
+        "urlToImage": "https://cdn.shopify.com/s/files/1/2198/0751/products/hot-apple-cider-shave-soap-stirling_1296x.jpg?v=1630589788"
+    },
+    
+    {
+        "date":"09-27-2021",
+        "name":"COPPER LATHER BOWL - HEAVYWEIGHT - Captain's Choice",
+        "price": "$47.95",
+        "url": "https://www.captainschoicestore.com/all/lather-bowl-copper-standard-rn9bz",
+        "urlToImage": "https://images.squarespace-cdn.com/content/v1/52b67a89e4b0a195126d11a3/1611632944561-SKDNLQDTLSAFO3OQLYF2/IMG_3329.jpg?format=1000w"
+    },
+    
+    {
+        "date":"09-28-2021",
+        "name":"Ship Wreck Cove Shaving Soap - Black Ship Grooming",
+        "price": "$16.00",
+        "url": "https://blackshipgroomingco.com/collections/shaving-softwear/products/ship-wreck-cove-shaving-soap?variant=34688707009",
+        "urlToImage": "https://cdn.shopify.com/s/files/1/2027/5407/products/ship-wreck-cove-shaving-soap-809964_1512x1134.jpg?v=1614636520"
+    },
+    
+    {
+        "date":"09-29-2021",
+        "name":"La Criatura Open Comb Double Slant Safety Razor | Twisted Shave Tech | Spark-Tacular!",
+        "price": "$26.95",
+        "url": "https://phoenixartisanaccoutrements.com/collections/monster-razors/products/la-criatura-open-comb-double-slant-safety-razor-twisted-shave-tech-spark-tacular?rfsn=6038936.73e54f",
+        "urlToImage": "https://cdn.shopify.com/s/files/1/0281/5884/products/LaCriaturaSlantRazorFasanRazorPhoenixShaving_600x600.jpg?v=1621555295"
+    },
+    
+    {
+        "date":"09-30-2021",
+        "name":"",
+        "price": "PaulHFilms",
+        "url": "",
+        "urlToImage": "https://yt3.ggpht.com/ytc/AKedOLQhLW1WEAhViuRKoVoydJNJ1SnzsagOTmfiyJpl=s176-c-k-c0x00ffffff-no-rj"
     }
 ]
