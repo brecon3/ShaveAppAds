@@ -33,13 +33,13 @@
         "name":"PAA BLACK FRIDAY SALES",
         "price": "Click to Shop Now",
         "url": "https://soapcommander.com/products/integrity-shaving-soap?variant=1028478811",
-        "urlToImage": "https://www.dropbox.com/s/4dfo0okulzjmq9u/259367182_880161932863930_3517500032214171006_n.jpg?dl=0"
+        "urlToImage": "https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/cp0/259367182_880161932863930_3517500032214171006_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=aee45a&_nc_ohc=7WSV5oRoQFsAX8OjY23&_nc_ht=scontent-lga3-2.xx&oh=6c559ec02e1f23f6db89ae5321c43c46&oe=61C2B372"
     },
     {
         "date":"11-24-2021",
         "name":"PAA SMALL BIZ SATURDAY SALES",
         "price": "Click to Shop Now",
         "url": "https://soapcommander.com/products/integrity-shaving-soap?variant=1028478811",
-        "urlToImage": "https://www.dropbox.com/s/mo4aw9fgi2ao32b/PAA_SMALL_BIZ_SAT.jpg?dl=0"
+        "urlToImage": "https://scontent.xx.fbcdn.net/v/t1.15752-9/p206x206/258756327_3014283255488278_6190552024653454600_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=aee45a&_nc_ohc=t4sTix-zUwkAX_0sZlU&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=8a4b4ded1e22f75b10a587e860462e41&oe=61BFB136"
     }
 ]
