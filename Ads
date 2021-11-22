@@ -33,13 +33,13 @@
         "name":"PAA BLACK FRIDAY SALES",
         "price": "Click to Shop Now",
         "url": "https://soapcommander.com/products/integrity-shaving-soap?variant=1028478811",
-        "urlToImage": "https://drive.google.com/file/d/1Q3QVH1Clp4hYDXCqupVb8QWEkwsYsOcd/view?usp=sharing"
+        "urlToImage": "https://www.dropbox.com/s/4dfo0okulzjmq9u/259367182_880161932863930_3517500032214171006_n.jpg?dl=0"
     },
     {
         "date":"11-24-2021",
         "name":"PAA SMALL BIZ SATURDAY SALES",
         "price": "Click to Shop Now",
         "url": "https://soapcommander.com/products/integrity-shaving-soap?variant=1028478811",
-        "urlToImage": "https://ibb.co/zH7QBf4"
+        "urlToImage": "https://www.dropbox.com/s/mo4aw9fgi2ao32b/PAA_SMALL_BIZ_SAT.jpg?dl=0"
     }
 ]
