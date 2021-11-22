@@ -22,10 +22,24 @@
         "urlToImage": "https://cdn.shopify.com/s/files/1/2716/2138/products/cedar-and-spice-final-2_1024x1024.jpg?v=1515457919"
     },
     {
-        "date":"08-27-2021",
-        "name":"Integrity Shaving Soap - Soap Commander",
-        "price": "$17.50",
+        "date":"11-22-2021",
+        "name":"PAA CYBER MONDAY SALES",
+        "price": "Click to Shop Now",
         "url": "https://soapcommander.com/products/integrity-shaving-soap?variant=1028478811",
-        "urlToImage": "https://cdn.shopify.com/s/files/1/0680/1473/products/Integrity_Shave_Soap_medium.png?v=1568680710"
+        "urlToImage": "https://drive.google.com/file/d/1iHTaqrO5Glu4k7GLiNVuu8v-vg11mu4M/view?usp=sharing"
+    },
+    {
+        "date":"11-23-2021",
+        "name":"PAA BLACK FRIDAY SALES",
+        "price": "Click to Shop Now",
+        "url": "https://soapcommander.com/products/integrity-shaving-soap?variant=1028478811",
+        "urlToImage": "https://drive.google.com/file/d/1Q3QVH1Clp4hYDXCqupVb8QWEkwsYsOcd/view?usp=sharing"
+    },
+    {
+        "date":"11-24-2021",
+        "name":"PAA SMALL BIZ SATURDAY SALES",
+        "price": "Click to Shop Now",
+        "url": "https://soapcommander.com/products/integrity-shaving-soap?variant=1028478811",
+        "urlToImage": "https://drive.google.com/file/d/1n5HDeITIPXjCrpzB7d-TKr4yrrXXsH5X/view?usp=sharing"
     }
 ]
