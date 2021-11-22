@@ -40,6 +40,6 @@
         "name":"PAA SMALL BIZ SATURDAY SALES",
         "price": "Click to Shop Now",
         "url": "https://soapcommander.com/products/integrity-shaving-soap?variant=1028478811",
-        "urlToImage": "https://drive.google.com/file/d/1n5HDeITIPXjCrpzB7d-TKr4yrrXXsH5X/view?usp=sharing"
+        "urlToImage": "https://ibb.co/zH7QBf4"
     }
 ]
