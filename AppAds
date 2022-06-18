@@ -1,6 +1,6 @@
 [
     {
-        "date":"05-19-2022",
+        "date":"06-19-2022",
         "name":"What Is The Best Shaving Cream For Men At Every Price Point In 2022?",
         "price": "Sharpologist - Click to Read",
         "url": "https://sharpologist.com/best-shave-cream/",
@@ -15,11 +15,81 @@
         "urlToImage": "https://f004.backblazeb2.com/file/appAdImages/Screen+Shot+2022-06-18+at+8.03.59+AM.png"
     },
     {
-        "date":"06-07-2022",
-        "name":"PAA - Enigma Machine - 8OZ Preshave Soap - CUBE 2.0",
+        "date":"06-20-2022",
+        "name":"ETHOS GROOMING ESSENTIALS - RENDEZVOUS - SHAMPOO AND BODY WASH",
         "price": "PromoCode: MYSHAVEDEN",
-        "url": "https://www.therazorcompany.com/collections/new-arrival-shaving-soaps-creams/products/phoenix-artisan-accoutrements-enigma-machine-8oz-preshave-soap-cube-2-0?sca_ref=1929941.FLUp6XtywQ",
-        "urlToImage": "https://cdn.shopify.com/s/files/1/1926/5571/products/Phoenix-Artisan-Accoutrements-Enigma-Machine-8oz-Preshave-Soap-CUBE-2.0_1024x1024@2x.jpg?v=1654535736"
+        "url": "https://www.therazorcompany.com/collections/new-arrivals/products/ethos-grooming-essentials-rendezvous-shampoo-and-body-wash?sca_ref=1929941.FLUp6XtywQ",
+        "urlToImage": "https://cdn.shopify.com/s/files/1/1926/5571/products/Ethos-Grooming-Essentials-Rendezvous-Shampoo-and-Body-Wash_1024x1024@2x.jpg?v=1655401639"
+    },
+     {
+        "date":"06-21-2022",
+        "name":"CAPTAIN FAWCETT'S - SCAPICCHIO SHAVING SOAP REFILL 110G",
+        "price": "Promo Code: MYSHAVEDEN",
+        "url": "https://www.therazorcompany.com/collections/new-arrivals/products/captain-fawcetts-scapicchio-shaving-soap-refill-110g?sca_ref=1929941.FLUp6XtywQ",
+        "urlToImage": "https://cdn.shopify.com/s/files/1/1926/5571/products/Captain-Fawcetts-Scapicchio-Shaving-Soap-Refill-110g_1024x1024@2x.jpg?v=1655421587"
+    },
+     {
+        "date":"06-22-2022",
+        "name":"STIRLING SOAP COMPANY - SHAVE SOAP - EXECUTIVE MAN",
+        "price": "Promo Code: MYSHAVEDEN",
+        "url": "https://www.therazorcompany.com/products/stirling-soap-company-shave-soap-executive-man?_pos=1&_sid=b509f2120&_ss=r&sca_ref=1929941.FLUp6XtywQ",
+        "urlToImage": "https://cdn.shopify.com/s/files/1/1926/5571/products/Stirling-Soap-Company-Shave-Soap-Executive-Man_1024x1024@2x.jpg?v=1604507557"
+    },
+     {
+        "date":"06-23-2022",
+        "name":"GENTLEMAN'S NOD - MUSASHI - ARTISAN SHAVE SOAP C4 BASE",
+        "price": "Promo Code: MYSHAVEDEN",
+        "url": "https://www.therazorcompany.com/collections/gentlemans-nod/products/gentlemans-nod-musashi-artisan-shave-soap?sca_ref=1929941.FLUp6XtywQ",
+        "urlToImage": "https://cdn.shopify.com/s/files/1/1926/5571/products/287278143_1189060428580025_850534540782606127_n_1024x1024@2x.jpg?v=1655154031"
+    },
+     {
+        "date":"06-24-2022",
+        "name":"LØTHUR GROOMING - TEARS - ARTISAN SHAVING SOAP - V2 BASE",
+        "price": "Promo Code: MYSHAVEDEN",
+        "url": "https://www.therazorcompany.com/collections/lothur-grooming/products/lothur-grooming-artisan-shaving-soap-tears?sca_ref=1929941.FLUp6XtywQ",
+        "urlToImage": "https://cdn.shopify.com/s/files/1/1926/5571/products/Lothur-Grooming-Artisan-Shaving-Soap-Tears_1024x1024@2x.jpg?v=1622058109"
+    },
+     {
+        "date":"06-25-2022",
+        "name":"EXTRO COSMESI - TUSCANIA - SHAVING CREAM 150ML",
+        "price": "Promo Code: MYSHAVEDEN",
+        "url": "https://www.therazorcompany.com/collections/new-arrival-shaving-soaps-creams/products/extro-cosmesi-tuscania-shaving-cream-150ml?sca_ref=1929941.FLUp6XtywQ",
+        "urlToImage": "https://cdn.shopify.com/s/files/1/1926/5571/products/Extro-Cosmesi-Tuscania-Shaving-Cream-150ml_1024x1024@2x.jpg?v=1654885299"
+    },
+     {
+        "date":"06-26-2022",
+        "name":"THE GOODFELLAS SMILE - STYLETTO - SHADOW BLUE CLOSED COMB SAFETY RAZOR",
+        "price": "Promo Code: MYSHAVEDEN",
+        "url": "https://www.therazorcompany.com/collections/safety-razors/products/the-goodfellas-smile-styletto-shadow-blue-closed-comb-safety-razor?sca_ref=1929941.FLUp6XtywQ",
+        "urlToImage": "https://cdn.shopify.com/s/files/1/1926/5571/products/The-GoodFellas-Smile-Styletto-Shadow-Blue-Closed-Comb-Safety-Razor-1_1024x1024@2x.jpg?v=1654886352"
+    },
+     {
+        "date":"06-27-2022",
+        "name":"AA SHAVING - QUIESCO - ARTISAN AFTERSHAVE SPLASH",
+        "price": "Promo Code: MYSHAVEDEN",
+        "url": "https://www.therazorcompany.com/collections/aftershave/products/a-a-shaving-quiesco-artisan-aftershave-splash?sca_ref=1929941.FLUp6XtywQ",
+        "urlToImage": "https://cdn.shopify.com/s/files/1/1926/5571/products/A-A-Shaving-Quiesco-Artisan-Aftershave-Splash_1024x1024@2x.jpg?v=1655220995"
+    },
+     {
+        "date":"06-28-2022",
+        "name":"DENTON MAJIK - FRESH UNLIMITED - AFTERSHAVE SPLASH 100ML",
+        "price": "Promo Code: MYSHAVEDEN",
+        "url": "https://www.therazorcompany.com/collections/aftershave/products/denton-majik-fresh-unlimited-aftershave-splash-100ml?sca_ref=1929941.FLUp6XtywQ",
+        "urlToImage": "https://cdn.shopify.com/s/files/1/1926/5571/products/Denton-Majik-Fresh-Unlimited-Aftershave-Splash-100ml_1024x1024@2x.jpg?v=1654182609"
+    },
+     {
+        "date":"06-29-2022",
+        "name":"STIRLING SOAP COMPANY - SYNTHETIC 2-BAND SHAVING BRUSH - 24MM GREEN",
+        "price": "Promo Code: MYSHAVEDEN",
+        "url": "https://www.therazorcompany.com/products/stirling-soap-company-synthetic-2-band-shaving-brush-24mm-green?_pos=6&_sid=b093a84eb&_ss=r&sca_ref=1929941.FLUp6XtywQ",
+        "urlToImage": "https://cdn.shopify.com/s/files/1/1926/5571/products/Stirling-Soap-Company-Synthetic-2-Band-Shaving-Brush-24mm-Green_1024x1024@2x.jpg?v=1604545930"
+    },
+     {
+        "date":"06-30-2022",
+        "name":"BLACK SHIP GROOMING CO. - SIREN'S SONG - SHAVING SOAP",
+        "price": "Promo Code: MYSHAVEDEN",
+        "url": "https://www.therazorcompany.com/products/black-ship-grooming-co-sirens-song-shaving-soap?_pos=6&_sid=1b3da143a&_ss=r&sca_ref=1929941.FLUp6XtywQ",
+        "urlToImage": "https://cdn.shopify.com/s/files/1/1926/5571/products/Black-Ship-Grooming-Co-Sirens-Song-Shaving-Soap_1024x1024@2x.jpg?v=1651776421"
     },
     
     {
