@@ -4,6 +4,18 @@
     "promoText" : "BLACK FRIDAY SALES GALORE!",
     "imageURL" : "https://cdn.shopify.com/s/files/1/0281/5884/files/logo_x226_5ba623f9-6467-4bc2-bc5d-321fc3dca959_193x104.png?v=1613781778",
     "tapURL" : "https://phoenixartisanaccoutrements.com/"
-
+  },
+  {
+    "merchantName" : "Hendrix Classics & Co.",
+    "promoText" : "Get your Scenting Oils On!",
+    "imageURL" : "https://cdn.shopify.com/s/files/1/0031/6371/7750/files/Black_Mark_4b29ff63-39a1-4a0b-ab1a-49effc9b160a_180x.jpg?v=1613691921",
+    "tapURL" : "https://hendrixclassics.com/"
+  },
+  {
+    "merchantName" : "Ariana & Evans",
+    "promoText" : "Join the Club Today & Save!",
+    "imageURL" : "https://cdn.shopify.com/s/files/1/1424/3722/files/logooooo_540x.jpg?v=1613738796",
+    "tapURL" : "https://shavingshopclub.com/"
   }
+ 
 ]
