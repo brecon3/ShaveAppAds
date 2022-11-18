@@ -2,8 +2,8 @@
   {
     "merchantName" : "Phoenix Artisan Accoutrements",
     "promoText" : "20% off all EdPs, Advent Calendar 2022 releases, Newly created PAA branded Blades, Ascension Razors now in Stainless Steel & so much more. ~Try something different!~",
-    "imageURL" : "https://cdn.shopify.com/s/files/1/0281/5884/files/logo_x226_5ba623f9-6467-4bc2-bc5d-321fc3dca959_193x104.png?v=1613781778",
-    "tapURL" : "https://phoenixartisanaccoutrements.com/"
+    "imageURL" : "https://f004.backblazeb2.com/file/MSD-specialMerchant-Logos/PAA_Special.png",
+    "tapURL" : "https://l.linklyhq.com/l/1aJoA"
   },
   {
     "merchantName" : "Hendrix Classics & Co.",
@@ -16,6 +16,62 @@
     "promoText" : "Join the Club Today & Save! Up to 20% off for being a member plus you can stack an additional 20% on top of that when buying 12 products in a single order!",
     "imageURL" : "https://cdn.shopify.com/s/files/1/1424/3722/files/logooooo_540x.jpg?v=1613738796",
     "tapURL" : "https://shavingshopclub.com/"
+  },
+  {
+    "merchantName" : "345 Soap Co.",
+    "promoText" : "TO BE ANNOUNCED",
+    "imageURL" : "https://f004.backblazeb2.com/file/MSD-specialMerchant-Logos/345_Special.png",
+    "tapURL" : "https://l.linklyhq.com/l/1aJmJ"
+  },
+  {
+    "merchantName" : "The Wet Shaving Store",
+    "promoText" : "TO BE ANNOUNCED",
+    "imageURL" : "https://f004.backblazeb2.com/file/MSD-specialMerchant-Logos/WetShaveStore_Special.png",
+    "tapURL" : "https://l.linklyhq.com/l/1aJmk"
+  },
+  {
+    "merchantName" : "Stirling Soap Co.",
+    "promoText" : "TO BE ANNOUNCED",
+    "imageURL" : "https://f004.backblazeb2.com/file/MSD-specialMerchant-Logos/Stirling_Special.png",
+    "tapURL" : "https://l.linklyhq.com/l/1aJmo"
+  },
+  {
+    "merchantName" : "The Shave Supply",
+    "promoText" : "TO BE ANNOUNCED",
+    "imageURL" : "https://f004.backblazeb2.com/file/MSD-specialMerchant-Logos/ShaveSupply_Special.png",
+    "tapURL" : "https://l.linklyhq.com/l/1aJn0"
+  },
+  {
+    "merchantName" : "Murphy & McNeil",
+    "promoText" : "TO BE ANNOUNCED",
+    "imageURL" : "https://f004.backblazeb2.com/file/MSD-specialMerchant-Logos/M%26M_Special.png",
+    "tapURL" : "https://l.linklyhq.com/l/1aJnS"
+  },
+  {
+    "merchantName" : "Hendrix Classics & Co.",
+    "promoText" : "TO BE ANNOUNCED",
+    "imageURL" : "https://f004.backblazeb2.com/file/MSD-specialMerchant-Logos/Hendix_Special.png",
+    "tapURL" : "https://l.linklyhq.com/l/1aJnk"
+  },
+  {
+    "merchantName" : "The Razor Company",
+    "promoText" : "TO BE ANNOUNCED",
+    "imageURL" : "https://f004.backblazeb2.com/file/MSD-specialMerchant-Logos/TRC_Special.png",
+    "tapURL" : "https://l.linklyhq.com/l/1aJny"
+  },
+  {
+    "merchantName" : "Hoffman's Shave & Soap Co.",
+    "promoText" : "TO BE ANNOUNCED",
+    "imageURL" : "https://f004.backblazeb2.com/file/MSD-specialMerchant-Logos/Hoffmans_Special.png",
+    "tapURL" : "https://l.linklyhq.com/l/1aJoU"
+  },
+  {
+    "merchantName" : "Pasteur Pharmacy",
+    "promoText" : "TO BE ANNOUNCED",
+    "imageURL" : "https://f004.backblazeb2.com/file/MSD-specialMerchant-Logos/Pasteur_Special.png",
+    "tapURL" : "https://l.linklyhq.com/l/1aJol"
   }
+  
+  
  
 ]
