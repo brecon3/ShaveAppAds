@@ -6,6 +6,12 @@
     "imageURL" : "https://f004.backblazeb2.com/file/MSD-specialMerchant-Logos/WetShaveStore_Special.png",
     "tapURL" : "http://bit.ly/3EVc6Fl"
   },
+   {
+    "merchantName" : "Murphy & McNeil",
+    "promoText" : "•20% Off all Murphy & McNeil Brand Products with code: BFMM20 \n•10% Off all products sitewide with code: BFMM10 \n•Early Bird Doorbusters! \n•25% off products by First Line Shave \n•Up to 47% off brushes by Teton shaves",
+    "imageURL" : "https://f004.backblazeb2.com/file/MSD-specialMerchant-Logos/M%26M_Special.png",
+    "tapURL" : "https://bit.ly/3OJsaNX"
+  },
   {
     "merchantName" : "Elysian Soap Shop",
     "promoText" : "Black Friday Sale: \nSave up to 60% off with code: ELYSIANBLACK.\n\nValid 11-18 to 11-25.",
