@@ -1,5 +1,16 @@
 
-[
+[ {
+    "merchantName" : "Phoenix Artisan Accoutrements",
+    "promoText" : "Black Friday Thru Cyber Monday Sales, Giveaway & Limited Exclusives! Only at Phoenix Shaving! \n•Enter this year's giveaway for a chance to win a Quantum Razor! \n•\n•~Try something different!~",
+    "imageURL" : "https://f004.backblazeb2.com/file/MSD-specialMerchant-Logos/PAA_Special.png",
+    "tapURL" : "http://bit.ly/3Vp7qgx"
+  },
+  {
+    "merchantName" : "Ariana & Evans",
+    "promoText" : "Buy One Get One 50% Off!",
+    "imageURL" : "https://f004.backblazeb2.com/file/MSD-specialMerchant-Logos/AE_Special.png",
+    "tapURL" : "http://bit.ly/3EzBy1K"
+  },
   {
     "merchantName" : "The Wet Shaving Store",
     "promoText" : "Black Friday/Cyber Monday Sale: \nSave up to 25% off your favorite brands with code: BFCM22.\n\nValid 11-21 to 11-28.",
@@ -44,7 +55,7 @@
   },
   {
     "merchantName" : "The Razor Company",
-    "promoText" : "•15% Off Sitewide - No Promo code needed \n•8AM Doorbusters on Thanksgiving Day",
+    "promoText" : "•15% Off Sitewide - No Promo code needed \n•New Releases: Blue Note, Shannons Soaps Rebrab, 345 Cowboy Up!, Odyssey One, & More! \n•Black Friday Doorbuster Deal - $9.99 A&E Kaizen 2 & Kaizen Base & More!",
     "imageURL" : "https://f004.backblazeb2.com/file/MSD-specialMerchant-Logos/TRC_Special.png",
     "tapURL" : "http://bit.ly/3Vp8wc9"
   },
