@@ -1,4 +1,4 @@
-{"ads": [
+[
     
     {
         "date":"01-01-2022",
@@ -16,4 +16,4 @@
         "urlToImage": "https://www.facebook.com/messenger_media/?attachment_id=2921985078097008&message_id=mid.%24cAABa9AS8uZGK4LFwPmEr2wm3Sldx&thread_id=100005872081726"
     }
 ]
-}
+
