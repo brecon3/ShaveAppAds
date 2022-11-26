@@ -13,7 +13,7 @@
         "name":"Super Sale Sunday",
         "price": "$87.95 - Click to Purchase",
         "url": "https://bit.ly/32tSBmw",
-        "urlToImage": "https://www.facebook.com/messenger_media/?attachment_id=2921985078097008&message_id=mid.%24cAABa9AS8uZGK4LFwPmEr2wm3Sldx&thread_id=100005872081726"
+        "urlToImage": "https://f004.backblazeb2.com/file/appAdImages/316245407_2921985084763674_2067427545119933209_n.jpeg"
     }
 ]
 
