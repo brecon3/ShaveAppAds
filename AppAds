@@ -7,11 +7,18 @@
         "urlToImage": "https://www.hfcc.edu/sites/hfcmain/files/newsroom/photos/thanksgiving.jpg"
     },
     {
-        "date":"11-06-2023",
-        "name":"Gentleman's Nod - Sidama - Artisan Shave Soap C4+ Base",
+        "date":"11-09-2023",
+        "name":"Hendrix Classics & Co. - Twelve Shaves - Shave Soap - 4oz",
         "price": "Click to Order Now!",
-        "url": "https://www.therazorcompany.com/collections/new-arrivals/products/gentlemans-nod-sidama-artisan-shave-soap-c4-base/?sca_ref=1929941.FLUp6XtywQ",
-        "urlToImage": "https://www.therazorcompany.com/cdn/shop/files/Gentlemans-Nod-Sidama-Artisan-Shave-Soap-C4-Base-1_1024x1024@2x.jpg?v=1699017347"
+        "url": "https://www.therazorcompany.com/collections/new-arrivals/products/hendrix-classics-co-twelve-shaves-shave-soap-4oz/?sca_ref=1929941.FLUp6XtywQ",
+        "urlToImage": "https://www.therazorcompany.com/cdn/shop/files/Hendrix-Classics-Co-Twelve-Shaves-Shave-Soap-4oz_1024x1024@2x.webp?v=1699463167"
+    },
+     {
+        "date":"11-10-2023",
+        "name":"Denton Majik - The Grey's in Flannel - Artisan Shave Soap - 2.5oz",
+        "price": "Click to Order Now!",
+        "url": "https://www.therazorcompany.com/collections/new-arrival-shaving-soaps-creams/products/denton-majik-the-greys-in-flannel-artisan-shave-soap-2-5oz/?sca_ref=1929941.FLUp6XtywQ",
+        "urlToImage": "https://www.therazorcompany.com/cdn/shop/files/Denton-Majik-The-Greys-in-Flannel-Artisan-Shave-Soap-2.5oz_1024x1024@2x.jpg?v=1697222924"
     },
     {
         "date":"11-08-2023",
