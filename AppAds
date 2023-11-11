@@ -7,11 +7,25 @@
         "urlToImage": "https://www.hfcc.edu/sites/hfcmain/files/newsroom/photos/thanksgiving.jpg"
     },
     {
-        "date":"11-09-2023",
-        "name":"Hendrix Classics & Co. - Twelve Shaves - Shave Soap - 4oz",
-        "price": "Click to Order Now!",
+        "date":"11-11-2023",
+        "name":"Thank You to All Our Veterans For Your Service & Your Sacrifice. Thank a Veteran Today!",
+        "price": "Click to Learn History",
+        "url": "https://department.va.gov/veterans-day/history-of-veterans-day/",
+        "urlToImage": "https://www.hfcc.edu/sites/hfcmain/files/newsroom/photos/veterans-small-for-web.jpg"
+    },
+    {
+        "date":"11-13-2023",
+        "name":"Veteran's Day Sale ~ Save 10% with Code: 'VeteransDay'",
+        "price": "Click to Shop & Save Now!",
         "url": "https://www.therazorcompany.com/collections/new-arrivals/products/hendrix-classics-co-twelve-shaves-shave-soap-4oz/?sca_ref=1929941.FLUp6XtywQ",
-        "urlToImage": "https://www.therazorcompany.com/cdn/shop/files/Hendrix-Classics-Co-Twelve-Shaves-Shave-Soap-4oz_1024x1024@2x.webp?v=1699463167"
+        "urlToImage": "https://www.hfcc.edu/sites/hfcmain/files/newsroom/photos/veterans-small-for-web.jpg"
+    },
+    {
+        "date":"11-12-2023",
+        "name":"Veteran's Day Sale ~ Save 10% with Code: 'VeteransDay'",
+        "price": "Click to Shop & Save Now!",
+        "url": "https://www.therazorcompany.com/collections/new-arrivals/products/hendrix-classics-co-twelve-shaves-shave-soap-4oz/?sca_ref=1929941.FLUp6XtywQ",
+        "urlToImage": "https://www.hfcc.edu/sites/hfcmain/files/newsroom/photos/veterans-small-for-web.jpg"
     },
      {
         "date":"11-10-2023",
