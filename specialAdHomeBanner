@@ -1,9 +1,9 @@
   {
-        "header":"Artisan Holiday Deals Inside!",
+        "header":"Early Black Friday/Cyber Monday Deals Inside!",
         "subtitle": "Click to View the Deals!",
         "urlToImage": "https://f004.backblazeb2.com/file/appAdImages/Gift_Icon.png",
         "color": "BF7575",
         "navTitle": "Special Deals",
-        "footerTitle": "Tap any row to shop!",
-        "display": "N"
+        "footerTitle": "Check Back Daily! Tap any row to shop!",
+        "display": "Y"
     }
