@@ -1,74 +1,15 @@
 
-[ {
-    "merchantName" : "Phoenix Artisan Accoutrements",
-    "promoText" : "•HATHA Special Release, SUPER RARE - 10% Off \n• 20% Off Mysterium Serum, Monster Slant Razors & Brush Soap \n•Enter this year's giveaway for a chance to win a Quantum Razor! \n\n~Try something different!~",
-    "imageURL" : "https://f004.backblazeb2.com/file/MSD-specialMerchant-Logos/PAA_Special.png",
-    "tapURL" : "http://bit.ly/3Vp7qgx"
-  },
-  {
-    "merchantName" : "Ariana & Evans",
-    "promoText" : "Buy One Get One 50% Off!",
-    "imageURL" : "https://f004.backblazeb2.com/file/MSD-specialMerchant-Logos/AE_Special.png",
-    "tapURL" : "http://bit.ly/3EzBy1K"
-  },
-  {
-    "merchantName" : "The Wet Shaving Store",
-    "promoText" : "Black Friday/Cyber Monday Sale: \nSave up to 25% off your favorite brands with code: BFCM22.\n\nValid 11-21 to 11-28.",
-    "imageURL" : "https://f004.backblazeb2.com/file/MSD-specialMerchant-Logos/WetShaveStore_Special.png",
-    "tapURL" : "http://bit.ly/3EVc6Fl"
-  },
-  {
-    "merchantName" : "Hoffman's Shave & Soap Co.",
-    "promoText" : "•27.75% off All Items for Black Friday \n•FREE Deodorant with orders over $70 \n•FREE Shipping on orders over $60 \n•Free Soap Dish with 4 Soap Bar Purchase \n•Free Scaly Cap Lapel Pin with orders over $40 \n•40% off all EDPs \n•Spend $100 & get a 50% discount code for your next order",
-    "imageURL" : "https://f004.backblazeb2.com/file/MSD-specialMerchant-Logos/Hoffmans_Special.png",
-    "tapURL" : "http://bit.ly/3i537IT"
-  },
-   {
+[ 
+    {
     "merchantName" : "Murphy & McNeil",
-    "promoText" : "•20% Off all Murphy & McNeil Brand Products with code: BFMM20 \n•10% Off all products sitewide with code: BFMM10 \n•Early Bird Doorbusters! \n•25% off products by First Line Shave \n•Up to 47% off brushes by Teton shaves",
+    "promoText" : "•30% Off all Murphy & McNeil Brand Products with code: BFCM •30% Off all Murphy & McNeil Pre-Owned Products with code: BFCM \n•10% Off all products sitewide with code: BFCM10",
     "imageURL" : "https://f004.backblazeb2.com/file/MSD-specialMerchant-Logos/M%26M_Special.png",
-    "tapURL" : "https://bit.ly/3OJsaNX"
+    "tapURL" : "https://l.linklyhq.com/l/1upEi"
   },
   {
-    "merchantName" : "Elysian Soap Shop",
-    "promoText" : "Black Friday Sale: \nSave up to 60% off with code: ELYSIANBLACK.\n\nValid 11-18 to 11-25.",
-    "imageURL" : "https://f004.backblazeb2.com/file/MSD-specialMerchant-Logos/Elysian_Special.png",
-    "tapURL" : "https://bit.ly/3XiJ2yQ"
-  },
-  {
-    "merchantName" : "Gentlemans Nod",
-    "promoText" : "•25% off Sitewide - No Code Needed - (Excludes fragrances, new releases and shave brushes) \n•Get a Candle ($35 value) for $5 when you buy any 50ml Parfum No Code Needed (simply add candle of choice to cart) \n•All Trifecta/Quadfecta Kits will automatically include a lip balm and 10 pack of Wizamet Super Iridium Blades while supplies last \n•All purchases will include a Parfum Extrait sample by request (simply put which fragrance you would like a sample of in the order notes.) \n•Zaharoff Signature ROSÉ Frose ROSÉ (cooled) version 35% off (No code needed)\n\nValid 11-22 to 11-28",
-    "imageURL" : "https://f004.backblazeb2.com/file/MSD-specialMerchant-Logos/GentlemansNod_Special.png",
-    "tapURL" : "https://bit.ly/3UUlFtK"
-  },
-  {
-    "merchantName" : "The Shave Supply",
-    "promoText" : "•Free Beverage Buddy on Orders $15+ \n•Take an additional 15% off items already on sale! \n•Take 25% off all Shave Supply Merch \n•Free US SHipping on all orders $35+ \n\n•Valid 11/25 to 11/28",
-    "imageURL" : "https://f004.backblazeb2.com/file/MSD-specialMerchant-Logos/ShaveSupply_Special.png",
-    "tapURL" : "http://bit.ly/3U50T9t"
-  },
-  {
-    "merchantName" : "Spearhead Shaving Company",
-    "promoText" : "20% Off Sitewide - No Promo code needed",
-    "imageURL" : "https://f004.backblazeb2.com/file/MSD-specialMerchant-Logos/Spearhead_Special.png",
-    "tapURL" : "http://bit.ly/3Xkankd"
-  },
-  {
-    "merchantName" : "The Razor Company",
-    "promoText" : "•15% Off Sitewide - No Promo code needed \n•New Releases: Blue Note, Shannons Soaps Rebrab, 345 Cowboy Up!, Odyssey One, & More!",
-    "imageURL" : "https://f004.backblazeb2.com/file/MSD-specialMerchant-Logos/TRC_Special.png",
-    "tapURL" : "http://bit.ly/3Vp8wc9"
-  },
-  {
-    "merchantName" : "Crowne & Crane",
-    "promoText" : "•Friday 12am - midnight (EST) 20% OFF \n•Saturday & Sunday 12am - midnight (EST) 15% OFF \n•Cyber Monday 12am - midnight (EST) 20% OFF \n•Limited Exclusions, while supplies last",
-    "imageURL" : "https://f004.backblazeb2.com/file/MSD-specialMerchant-Logos/Crane_Special.png",
-    "tapURL" : "http://bit.ly/3tViaXY"
-  },
-  {
-    "merchantName" : "Hendrix Classics & Co.",
-    "promoText" : "•Microfiber Specials \n•Trifecta Specials (Soap, Splash, EDP) \n•Splash Bundle Specials \n•EDP/Extait Specials \n•$20 & $10 & under price categories",
-    "imageURL" : "https://f004.backblazeb2.com/file/MSD-specialMerchant-Logos/Hendix_Special.png",
-    "tapURL" : "http://bit.ly/3U3Nj6m"
+    "merchantName" : "Pasteur Pharmacy",
+    "promoText" : "•20% Off Sitewide - NO MINIMUM - Use Promo Code 'MSD' at checkout",
+    "imageURL" : "https://f004.backblazeb2.com/file/MSD-specialMerchant-Logos/Pasteur_Special.png",
+    "tapURL" : "https://l.linklyhq.com/l/1upEm"
   }
 ]
