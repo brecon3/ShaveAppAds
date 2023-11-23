@@ -20,7 +20,7 @@
   },
 {
     "merchantName" : "Razor Emporium",
-    "promoText" : "25% Off all products sitewide- Use Promo Code 'BLACKFRIDAY' at checkout",
+    "promoText" : "•25% Off all products sitewide- Use Promo Code 'BLACKFRIDAY' at checkout",
     "imageURL" : "https://cdn11.bigcommerce.com/s-ewhawc/stencil/5ee48f40-186d-013c-030b-4662e9f38f84/e/467dbe60-6482-013c-40df-3e3a3b6675b7/icons/razor-emporium-logo.svg",
     "tapURL" : "https://l.linklyhq.com/l/1urfr"
   },
@@ -29,6 +29,11 @@
     "promoText" : "Black Friday/Cyber Monday Sale: \n•Save up to 30% off your favorite brands with code: BFCM23. \n•Free gift with $100 spend, 2 Free gifts with $200 spend \n•Free $20 Giftcard when you spend $300 \n•Special Doorbuster deals starting on Thanksgiving Day.",
     "imageURL" : "https://f004.backblazeb2.com/file/MSD-specialMerchant-Logos/WetShaveStore_Special.png",
     "tapURL" : "https://l.linklyhq.com/l/1ut0b"
+  },
+{
+    "merchantName" : "DentonMajik",
+    "promoText" : "•25% off with Promocode 'BLACKFRIMAJIK' - Minimum $25 subtotal",
+    "imageURL" : "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/294432712_384383420482533_4852355374794781737_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=6hLw00KICK4AX-OF3yS&_nc_ht=scontent-lga3-1.xx&oh=00_AfAkF6aQ-T0y_Z9Lq0dXL8fhZ6ESBh3rnr3Xjoul6BdPig&oe=65649011",
+    "tapURL" : "https://l.linklyhq.com/l/1ut0h"
   }
-
 ]
