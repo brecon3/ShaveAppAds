@@ -1,5 +1,11 @@
 
 [ 
+ {
+    "merchantName" : "Phoenix Artisan Accoutrements",
+    "promoText" : "•Advent Calendar Special Release \n• 25% Off Solid Colognes & Strangelet Blades \n• 20% Off Shatterproof Scuttle, Cube Station Razor Stand, & Galactic Aloe/Witch Hazel \n•Enter this year's giveaway for a chance to win an Advent Calendar! \n\n~Try something different!~",
+    "imageURL" : "https://f004.backblazeb2.com/file/MSD-specialMerchant-Logos/PAA_Special.png",
+    "tapURL" : "https://l.linklyhq.com/l/1aJoA"
+  },
 {
     "merchantName" : "Murphy & McNeil",
     "promoText" : "•30% Off all Murphy & McNeil Brand Products with code: BFCM \n•30% Off all Murphy & McNeil Pre-Owned Products with code: BFCM \n•10% Off all products sitewide with code: BFCM10",
