@@ -140,11 +140,18 @@
         "urlToImage": "https://phoenixartisanaccoutrements.com/cdn/shop/products/aftershave-cologne-huxley-s-better-blend-crisp-aftershave-cologne-spearmint-mentholated-1_640x640.jpg?v=1691704136"
     },
     {
-        "date":"10-27-2023",
-        "name":"345 Soap Co. - Six Four - Shaving Soap - Deus Vult Base - 5.8oz",
+        "date":"11-29-2023",
+        "name":"TRC - Carpe Diem - Shave Soap",
         "price": "Click to Shop!",
-        "url": "https://www.therazorcompany.com/collections/exclusive-shaving-soaps-creams/products/345-soap-co-six-four-shaving-soap-deus-vult-base-5-8oz/?sca_ref=1929941.FLUp6XtywQ",
-        "urlToImage": "https://www.therazorcompany.com/cdn/shop/files/345-Soap-CO-Six-Four-Shaving-Soap-Deus-Vult-Base-5.8oz-1_1024x1024@2x.jpg?v=1693401596"
+        "url": "https://www.therazorcompany.com/collections/trc-shave-sets/products/trc-carpe-diem-shave-soap/?sca_ref=1929941.FLUp6XtywQ",
+        "urlToImage": "https://www.therazorcompany.com/cdn/shop/files/TRC-Carpe-Diem-Shave-Soap_1024x1024@2x.png?v=1700842252"
+    },
+    {
+        "date":"11-30-2023",
+        "name":"TRC - Serein - Aftershave Splash",
+        "price": "Click to Shop!",
+        "url": "https://www.therazorcompany.com/collections/exclusive-shaving-soaps-creams/products/trc-serein-aftershave-splash/?sca_ref=1929941.FLUp6XtywQ",
+        "urlToImage": "https://www.therazorcompany.com/cdn/shop/files/TRC-Serein-Aftershave-Splash_1024x1024@2x.png?v=1700842703"
     },
     {
         "date":"10-03-2023",
