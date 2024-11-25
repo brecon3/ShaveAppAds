@@ -8,8 +8,20 @@
   },
     {
     "merchantName" : "The Wet Shaving Store",
-    "promoText" : "Black FridaySale: \n•Save up to 20% off your favorite brands with code: BFCM23.",
+    "promoText" : "•Save up to 20% off your favorite brands with code: BFCM23.",
     "imageURL" : "https://f004.backblazeb2.com/file/MSD-specialMerchant-Logos/WetShaveStore_Special.png",
     "tapURL" : "https://2ly.link/1ut0b"
+  },
+    {
+    "merchantName" : "Hendrix Classics & Co",
+    "promoText" : "•Save between 10-25% off select products now through 12/2. Discount shown in cart.",
+    "imageURL" : "https://f004.backblazeb2.com/file/MSD-specialMerchant-Logos/WetShaveStore_Special.png",
+    "tapURL" : "https://2ly.link/21LZA"
+  },
+    {
+    "merchantName" : "FilamentWorkx 3D Print Shop",
+    "promoText" : "•Save 25% off Wet Shaving accessories - Stands, Custom Coin Brushes, Dryers, etc. \n•Free Shipping on $35 or more.",
+    "imageURL" : "https://i.etsystatic.com/isla/1f2067/73415151/isla_300x300.73415151_h6w1amjp.jpg?version=0",
+    "tapURL" : "https://2ly.link/21LZF"
   }
 ]
