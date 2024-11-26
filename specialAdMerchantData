@@ -1,5 +1,10 @@
 
-[ 
+[ {
+    "merchantName" : "Blackland Razors",
+    "promoText" : "•Up to 25% Off products - Tap for details",
+    "imageURL" : "https://www.blacklandrazors.com/cdn/shop/files/Logo_Black_w_boundary_100x@2x.png?v=1614324456",
+    "tapURL" : "https://2ly.link/21NLg"
+  },
   {
     "merchantName" : "Maggard Razors",
     "promoText" : "•Free Shipping on $25 or more",
