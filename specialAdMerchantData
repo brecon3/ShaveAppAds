@@ -5,6 +5,18 @@
     "imageURL" : "https://www.blacklandrazors.com/cdn/shop/files/Logo_Black_w_boundary_100x@2x.png?v=1614324456",
     "tapURL" : "https://2ly.link/21NLg"
   },
+    {
+    "merchantName" : "The Razor Company",
+    "promoText" : "•15% Off all products sitewide: No Code Needed \n•Thanksgiving Day Doorbusters while supplies last starting @ 8am EST",
+    "imageURL" : "https://f004.backblazeb2.com/file/MSD-specialMerchant-Logos/TRC_Special.png",
+    "tapURL" : "https://l.linklyhq.com/l/1aJny"
+  },
+    {
+    "merchantName" : "Murphy & McNeil",
+    "promoText" : "•20% Off 2+ Murphy & McNeil Brand Products with code: LUCKY20 \n•20% Off all Murphy & McNeil Pre-Owned Products $25+ with code: USED20",
+    "imageURL" : "https://f004.backblazeb2.com/file/MSD-specialMerchant-Logos/M%26M_Special.png",
+    "tapURL" : "https://l.linklyhq.com/l/1upEi"
+  },
   {
     "merchantName" : "Maggard Razors",
     "promoText" : "•13% Off site wide with code: BFWEEK13",
