@@ -7,15 +7,27 @@
   },
     {
     "merchantName" : "The Razor Company",
-    "promoText" : "•15% Off all products sitewide: No Code Needed \n•Thanksgiving Day Doorbusters while supplies last starting @ 8am EST",
+    "promoText" : "•15% Off all products sitewide: No Code Needed \n•Black Friday Doorbusters while supplies last starting @ 9am EST",
     "imageURL" : "https://f004.backblazeb2.com/file/MSD-specialMerchant-Logos/TRC_Special.png",
     "tapURL" : "https://l.linklyhq.com/l/1aJny"
+  },
+{
+    "merchantName" : "Timeless Razors",
+    "promoText" : "•10% Off all products sitewide: No Code Needed",
+    "imageURL" : "https://timelessrazor.com/cdn/shop/files/TimelessRazors-517735-PANO.jpg?v=1709221022&width=600",
+    "tapURL" : "https://2ly.link/21UGr"
   },
     {
     "merchantName" : "Murphy & McNeil",
     "promoText" : "•20% Off 2+ Murphy & McNeil Brand Products with code: LUCKY20 \n•20% Off all Murphy & McNeil Pre-Owned Products $25+ with code: USED20",
     "imageURL" : "https://f004.backblazeb2.com/file/MSD-specialMerchant-Logos/M%26M_Special.png",
     "tapURL" : "https://l.linklyhq.com/l/1upEi"
+  },
+{
+    "merchantName" : "BlackShip Grooming",
+    "promoText" : "•Spend up to 75.00 and get 10% off \n•Spend up to $150.00 and get 15% off \n•Spend more than $150.00 and get 20% off",
+    "imageURL" : "https://blackshipgroomingco.com/cdn/shop/files/Black_Ship_Text_logo_site.png?v=1651378416&width=280",
+    "tapURL" : "https://2ly.link/21UGk"
   },
     {
     "merchantName" : "Razor Emporium",
@@ -25,7 +37,7 @@
   },
   {
     "merchantName" : "Maggard Razors",
-    "promoText" : "•22% Off all samples with code: SAMPLES22",
+    "promoText" : "•Specials go live Friday @ 11:00AM EST",
     "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTphujAEyYzBpsKcVS-d9zrI4qEk2iUdTuarQ&s",
     "tapURL" : "https://2ly.link/21MLJ"
   },
