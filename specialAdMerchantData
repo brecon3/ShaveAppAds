@@ -1,27 +1,10 @@
 
-[ {
-    "merchantName" : "Blackland Razors",
-    "promoText" : "•Up to 25% Off products - Tap for details",
-    "imageURL" : "https://www.blacklandrazors.com/cdn/shop/files/Logo_Black_w_boundary_100x@2x.png?v=1614324456",
-    "tapURL" : "https://2ly.link/21NLg"
-  },
-     {
-    "merchantName" : "Phoenix Artisan Accoutrements",
-    "promoText" : "• One Day Only Release - The Shaving: Ray Rum \n• 25% Off Eau De Parfum \n• Holiday Cube 2.0 \n• 20% Off The Intergalactic Indestructible Shatterproof Travel Scuttle \n• Last Day to enter this year's giveaway for a chance to win an Advent Calendar! \n\n~Try something different!~",
-    "imageURL" : "https://f004.backblazeb2.com/file/MSD-specialMerchant-Logos/PAA_Special.png",
-    "tapURL" : "https://l.linklyhq.com/l/1aJoA"
-  },
+[ 
     {
     "merchantName" : "The Razor Company",
     "promoText" : "•15% Off all products sitewide: No Code Needed \n•Black Friday Doorbusters while supplies last starting @ 9am EST",
     "imageURL" : "https://f004.backblazeb2.com/file/MSD-specialMerchant-Logos/TRC_Special.png",
     "tapURL" : "https://l.linklyhq.com/l/1aJny"
-  },
-{
-    "merchantName" : "Timeless Razors",
-    "promoText" : "•10% Off all products sitewide: No Code Needed",
-    "imageURL" : "https://timelessrazor.com/cdn/shop/files/TimelessRazors-517735-PANO.jpg?v=1709221022&width=600",
-    "tapURL" : "https://2ly.link/21UGr"
   },
     {
     "merchantName" : "Murphy & McNeil",
@@ -29,21 +12,9 @@
     "imageURL" : "https://f004.backblazeb2.com/file/MSD-specialMerchant-Logos/M%26M_Special.png",
     "tapURL" : "https://l.linklyhq.com/l/1upEi"
   },
-{
-    "merchantName" : "BlackShip Grooming",
-    "promoText" : "•Spend up to 75.00 and get 10% off \n•Spend up to $150.00 and get 15% off \n•Spend more than $150.00 and get 20% off",
-    "imageURL" : "https://blackshipgroomingco.com/cdn/shop/files/Black_Ship_Text_logo_site.png?v=1651378416&width=280",
-    "tapURL" : "https://2ly.link/21UGk"
-  },
-    {
-    "merchantName" : "Razor Emporium",
-    "promoText" : "•25% Off all products sitewide- Use Promo Code 'BLACKFRIDAY' at checkout",
-    "imageURL" : "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/242176106_4333017630079644_7465367320744641555_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=WJdSY1bVIYUAX9VBwK9&_nc_ht=scontent-lga3-1.xx&oh=00_AfDsI12gexXN64mspXw6RGuvmPc_x5gD2L-x9YSXB2rzKQ&oe=65669FE4",
-    "tapURL" : "https://l.linklyhq.com/l/1urfr"
-  },
   {
     "merchantName" : "Maggard Razors",
-    "promoText" : "•20% off Maggard brand products with code: CYBERMAG",
+    "promoText" : "•14% off sitewide with code: CYBER14",
     "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTphujAEyYzBpsKcVS-d9zrI4qEk2iUdTuarQ&s",
     "tapURL" : "https://2ly.link/21MLJ"
   },
@@ -52,18 +23,6 @@
     "promoText" : "•15% Off Sitewide - NO MINIMUM - Use Promo Code 'MSD' at checkout",
     "imageURL" : "https://f004.backblazeb2.com/file/MSD-specialMerchant-Logos/Pasteur_Special.png",
     "tapURL" : "https://2ly.link/1upEm"
-  },
-  {
-    "merchantName" : "The Wet Shaving Store",
-    "promoText" : "•Save up to 20% off your favorite brands with code: BFCM23.",
-    "imageURL" : "https://f004.backblazeb2.com/file/MSD-specialMerchant-Logos/WetShaveStore_Special.png",
-    "tapURL" : "https://2ly.link/1ut0b"
-  },
-  {
-    "merchantName" : "Hendrix Classics & Co",
-    "promoText" : "•Save between 10-25% off select products now through 12/2. Discount shown in cart.",
-    "imageURL" : "https://f004.backblazeb2.com/file/MSD-specialMerchant-Logos/WetShaveStore_Special.png",
-    "tapURL" : "https://2ly.link/21LZA"
   },
   {
     "merchantName" : "FilamentWorkx",
