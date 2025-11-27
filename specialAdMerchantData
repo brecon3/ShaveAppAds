@@ -2,31 +2,31 @@
 [ 
     {
     "merchantName" : "The Razor Company",
-    "promoText" : "•15% Off all products sitewide: No Code Needed \n•Black Friday Doorbusters while supplies last starting @ 9am EST",
+    "promoText" : "•15% Off all products sitewide: No Code Needed \n•Doorbusters all weekend longwhile supplies last starting @ 9am EST Daily (Thursday, Friday, Saturday, Monday)",
     "imageURL" : "https://f004.backblazeb2.com/file/MSD-specialMerchant-Logos/TRC_Special.png",
     "tapURL" : "https://l.linklyhq.com/l/1aJny"
   },
     {
     "merchantName" : "Murphy & McNeil",
-    "promoText" : "•20% Off 2+ Murphy & McNeil Brand Products with code: LUCKY20 \n•20% Off all Murphy & McNeil Pre-Owned Products $25+ with code: USED20",
+    "promoText" : "•20% Off all Murphy & McNeil Pre-Owned Products $25+ with code: USED20",
     "imageURL" : "https://f004.backblazeb2.com/file/MSD-specialMerchant-Logos/M%26M_Special.png",
     "tapURL" : "https://l.linklyhq.com/l/1upEi"
   },
   {
     "merchantName" : "Maggard Razors",
-    "promoText" : "•14% off sitewide with code: CYBER14",
+    "promoText" : "•Kit Specials",
     "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTphujAEyYzBpsKcVS-d9zrI4qEk2iUdTuarQ&s",
     "tapURL" : "https://2ly.link/21MLJ"
   },
   {
     "merchantName" : "Pasteur Pharmacy",
-    "promoText" : "•15% Off Sitewide - NO MINIMUM - Use Promo Code 'MSD' at checkout",
+    "promoText" : "•16% Off Sitewide - $50 or more - Use Promo Code 'MSD' at checkout",
     "imageURL" : "https://f004.backblazeb2.com/file/MSD-specialMerchant-Logos/Pasteur_Special.png",
     "tapURL" : "https://2ly.link/1upEm"
   },
   {
     "merchantName" : "FilamentWorkx",
-    "promoText" : "•Save 25% off Wet Shaving accessories - Stands, Custom Coin Brushes, Dryers, etc. \n•Free Shipping on $35 or more.",
+    "promoText" : "•Save 20% off Wet Shaving accessories - Stands, Custom Coin Brushes, Dryers, etc. \n•Free Shipping on $35 or more.",
     "imageURL" : "https://i.etsystatic.com/isla/1f2067/73415151/isla_300x300.73415151_h6w1amjp.jpg?version=0",
     "tapURL" : "https://2ly.link/21LZF"
   }
