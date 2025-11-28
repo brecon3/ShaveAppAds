@@ -2,15 +2,27 @@
 [ 
     {
     "merchantName" : "The Razor Company",
-    "promoText" : "•15% Off all products sitewide: No Code Needed \n•Doorbusters all weekend longwhile supplies last starting @ 9am EST Daily (Thursday, Friday, Saturday, Monday)",
+    "promoText" : "•15% Off all products sitewide: No Code Needed \n•Doorbusters all weekend longwhile supplies last starting @ 9am EST Daily (Friday, Saturday, Monday)",
     "imageURL" : "https://f004.backblazeb2.com/file/MSD-specialMerchant-Logos/TRC_Special.png",
     "tapURL" : "https://l.linklyhq.com/l/1aJny"
+  },
+    {
+    "merchantName" : "Phoenix Artisan Accoutrements",
+    "promoText" : "• Black Friday Advent Calendar Release \n• 25% Off Solid Cologne \n• CAD & Droid Cube Special Release \n• Enter this year's giveaway for a chance to $100 Giftcard! \n\n~Try something different!~",
+    "imageURL" : "https://f004.backblazeb2.com/file/MSD-specialMerchant-Logos/PAA_Special.png",
+    "tapURL" : "https://l.linklyhq.com/l/1aJoA"
   },
     {
     "merchantName" : "Murphy & McNeil",
     "promoText" : "•20% Off all Murphy & McNeil Pre-Owned Products $25+ with code: USED20",
     "imageURL" : "https://f004.backblazeb2.com/file/MSD-specialMerchant-Logos/M%26M_Special.png",
     "tapURL" : "https://l.linklyhq.com/l/1upEi"
+  },
+    {
+    "merchantName" : "Razor Emporium",
+    "promoText" : "•30% Off all products sitewide- Use Promo Code 'BLACKFRIDAY' at checkout",
+    "imageURL" : "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/242176106_4333017630079644_7465367320744641555_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=WJdSY1bVIYUAX9VBwK9&_nc_ht=scontent-lga3-1.xx&oh=00_AfDsI12gexXN64mspXw6RGuvmPc_x5gD2L-x9YSXB2rzKQ&oe=65669FE4",
+    "tapURL" : "https://l.linklyhq.com/l/1urfr"
   },
   {
     "merchantName" : "Maggard Razors",
